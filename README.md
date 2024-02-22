@@ -1,1 +1,5 @@
 # Lab_MonteCarlo
+Hi ha tres imatges corresponents a cada T que estan representades com a i inicial, f final i e evolució. 
+Es pot observar en les imatges que si tenim una relació T=0.2 aquest és un materal completament magnètic i, per tant, es veu com aquest a mesura que augmenta el temps, es tornarà tot del mateix spin. Aquest canvi serà bastant ràpid, com observem en el la gràfica de l'evolució on s'arriba a energia i magnetització fixa i sense fluctuacions.
+En el segon cas, a T=1.8 trobem que tenim clústers amb diferent magnetització. Veiem que llavors la magnetització zona zero però hi ha zones on predomina un spin i zones on predomina un altre. En aquest cas, en la gràfica d'evolució veiem que sí que hi ha moltes fluctuacions encara que la energia convergeix. La magnetització, com ja hem dit, serà al voltant de 0. 
+En l'últim cas T=100 veiem que ara l'energia és més que suficient per fer qualsevol canvi així que encara que fem moltes iteracions seguirà sent random, és a dir, no serà magnetic. En aquest cas, tenim que tant la energia com la magnetització fluctuen molt i al voltant del 0.
